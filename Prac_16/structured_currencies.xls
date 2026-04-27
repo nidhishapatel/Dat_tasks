@@ -1,0 +1,38 @@
+code,name,symbol,decimal_digits,countries
+USD,US Dollar,$,2,United States
+USD,US Dollar,$,2,Ecuador
+USD,US Dollar,$,2,El Salvador
+EUR,Euro,€,2,Germany
+EUR,Euro,€,2,France
+EUR,Euro,€,2,Italy
+EUR,Euro,€,2,Spain
+EUR,Euro,€,2,Netherlands
+GBP,British Pound,£,2,United Kingdom
+JPY,Japanese Yen,¥,0,Japan
+CHF,Swiss Franc,CHF,2,Switzerland
+CHF,Swiss Franc,CHF,2,Liechtenstein
+AUD,Australian Dollar,A$,2,Australia
+CAD,Canadian Dollar,C$,2,Canada
+CNY,Chinese Yuan,¥,2,China
+INR,Indian Rupee,₹,2,India
+MXN,Mexican Peso,$,2,Mexico
+BRL,Brazilian Real,R$,2,Brazil
+KRW,South Korean Won,₩,0,South Korea
+SGD,Singapore Dollar,S$,2,Singapore
+HKD,Hong Kong Dollar,HK$,2,Hong Kong
+NOK,Norwegian Krone,kr,2,Norway
+SEK,Swedish Krona,kr,2,Sweden
+DKK,Danish Krone,kr,2,Denmark
+NZD,New Zealand Dollar,NZ$,2,New Zealand
+ZAR,South African Rand,R,2,South Africa
+RUB,Russian Ruble,₽,2,Russia
+TRY,Turkish Lira,₺,2,Turkey
+PLN,Polish Zloty,zł,2,Poland
+THB,Thai Baht,฿,2,Thailand
+IDR,Indonesian Rupiah,Rp,0,Indonesia
+MYR,Malaysian Ringgit,RM,2,Malaysia
+PHP,Philippine Peso,₱,2,Philippines
+CZK,Czech Koruna,Kč,2,Czech Republic
+ILS,Israeli Shekel,₪,2,Israel
+AED,UAE Dirham,د.إ,2,United Arab Emirates
+SAR,Saudi Riyal,﷼,2,Saudi Arabia
